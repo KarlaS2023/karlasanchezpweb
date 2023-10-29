@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>MI PÁGINA WEB </title>
+    </head>
+    <body  style="background-color:antiquewhite">
+        <header>
+            <H1 TEXT ALIGN="CENTER">KARLA SANCHEZ</H1> 
+            <NAV style="text-align:center"> 
+                <li><a href="#SOBRE MI">SOBRE MI</a></li>
+                <li><a href="#PROMEDIO 1">PROMEDIO 1</a></li>
+                <li><a href="#PROMEDIO 2">PROMEDIO 2</a></li>
+            </NAV>
+        </header>
+
+     <!-- SOBRE MI -->
+
+        <SECTION id="SOBRE MI">
+            <H1><MARQUEE direction="right"> SOBRE MI</MARQUEE></H1>
+            <table>
+                <tr>
+                  <td><img height="250" width="200"  src="./karla.jpeg"> </td>
+                  <td style="background-color:rgb(145, 145, 245);text-align:justify;size: 80">Hola mi nombre es Karla Sanchez, soy de la Carrera de CAM y en esta página WEB les mostraré todo lo que hice en este Primer Promedio de Laboratorio 2</td>               
+                </tr>
+            </table>    
+        </SECTION>
+
+    <!-- PROMEDIO 1 -->
+
+        <SECTION id="PROMEDIO 1">
+            <H1><marquee direction="right">PROMEDIO 1 - PROMEDIO 1 - PROMEDIO 1 - PROMEDIO 1 - PROMEDIO 1</marquee></H1>
+            <ARTICLE>
+                <H4>SEMANA 1</H4>
+                <table>
+                    <tr>
+                        <td><img height="300" width="350" src="./pollo a la brasa dibujo.jpeg"></td>
+                        <td style="background-color: rgb(176, 241, 219);text-align:center;">Esta semana recordamos como usar la impresora 3D. Junto con mi grupo decidimos que a todos nos gusta el Pollo a la Brasa. Por lo que decidimos dibujarlo para imprimirlo. Y este fue el resultado</td>
+                        <td><img height="300" width="350" src="./pollo impreso.jpeg"></td>
+                    </tr>
+                </table>
+            </ARTICLE>
+            <article>
+                <h4>SEMANA 2</h4>
+                <TABLE>
+                    <tr>
+                        <td><img height="300" width="350" src="./ods 1.jpeg"></td>
+                        <td style="background-color: rgb(207, 176, 241);text-align: center">Esta semana hicimos diferentes grupos, esta vez para crear una propuesta que ayude a alguna ODS. A mi grupo le tocó la ODS #3 "Salud y Bienestar". Después de ver los diferentes problemas que hay con respecto a la salud física y mental, decidimos hacer una app que nos ayude a mejorar la salud mental en el Perú, sobretodo en los jóvenes y persnas con bajos recursos económicos. La llamamos "PsyContigo" </td>
+                        <td><img height="300" width="350" src="./ods 3.jpeg"></td>
+                    </tr>
+                </TABLE>
+            </article>
+            <article>
+                <h4>SEMANA 3</h4>
+                <TABLE>
+                    <tr>
+                        <td><img height="300" width="350" src="./COLD PUPPY.jpeg"></td>
+                        <td style="background-color: rgb(241, 176, 239);text-align: center">Esta semana la actividad fué individual y tuvimos que diseñar un dispositivo, plasmarlo en la hoja. Dar las características y funcionamiento. A pesar de que no me agrada mucho hacer proyectos enfocados en mascotas(porque considero que todos lo hacen) Esta vez decidí hacer un dispositivo que ayude a regular la temperatura corporal de nuestras mascotas en climas extremos.</td>
+                        <td><img height="300" width="350" src="./diseño cama.png"></td>
+                    </tr>
+                </TABLE>
+            </article>
+        </SECTION>
+
+         <!-- PROMEDIO 2 -->
+
+     <section id="PROMEDIO 2"> 
+        <H1><marquee direction="right">PROMEDIO 2- PROMEDIO 2 - PROMEDIO 2 - PROMEDIO 2 - PROMEDIO 2</marquee></H1>
+        <ARTICLE>
+            <H4>DINÁMICA 1</H4>
+            <a href="https://www.tinkercad.com/things/fKlfsLorUTr-karla-sanchez-dinamica-1/editel?sharecode=rhlqbmdHYKRI1oUQrz8xrg6dFcT8EkcDeot9Ypd9XFQ">Ir a google</a>
+            <table>
+                <tr>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/CIRCUITO 1.png"></td>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/CIRCUITO 2.png"></td>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/CIRCUITO 3.png"></td>
+                </tr>
+            </table>
+        </ARTICLE>
+        <article>
+            <h4>DINÁMICA 2</h4>
+            <a href="https://www.tinkercad.com/things/cDPaxWsEaXP-dinamica-2-karla-sanchez/editel?sharecode=co5iVFl0ilF3qYvyirWwKb6cNP6Q72BgqMiCVwXWry8">Ir a google</a>
+            <img src="IMAGEN PROM2/DINÁMICA 2.png"></td>
+        </article>
+        <article>
+            <h4>DINÁMICA 3</h4>
+            <TABLE>
+                <tr>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/dinámica 3 -1.jpeg"></td>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/dinámica 3 -2.jpeg"></td>
+                    <td><img height="300" width="350" src="IMAGEN PROM2/dinámica 3-3.jpeg"></td>
+                </tr>
+            </TABLE>
+        </article>
+    </SECTION>
+    </body>
+    </body>
+    <aside style="background-color: rgb(145, 145, 245)"><marquee direction="right">FIN DE LA MISIÓN</marquee></aside>
+</html>
